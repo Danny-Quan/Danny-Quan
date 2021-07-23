@@ -55,7 +55,7 @@
         <li><a href="ministry.php">Ministry</a></li>
         <li><a href="education.php">Education</a></li>
         <li><a href="arts_and_entertainment.php">Arts and Entertainment</a></li>
-        <li><a href="Benefits_commitment.php">Membership Benefits</a></li>
+        <li><a href="benefits_commitment.php">Membership Benefits</a></li>
     </ul>
 </div>
 </li>
