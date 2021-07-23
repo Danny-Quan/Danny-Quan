@@ -52,6 +52,14 @@ Africa must rise to her destiny and it require the efforts of all of us.<br>
 <p><strong>God bless you.</strong></p>
 
         </p>
+        <br>
+        <br>
+        <div class="secretary_image text-center">
+            <img src="resources/img/our_team/gen_sec.jpg" alt="general secretary" height="250px" width="250px" class="img-circle img-thumbnail">
+            <h4 style="color:rgb(224, 177, 19); padding:10px;">Mr Edward Marfo</h4>
+            <p>General Secretary 
+Youth Empowerment Consortium-YEC </p>
+        </div>
     </div>
 </section>
 
