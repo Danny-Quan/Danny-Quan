@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-3 f-col">
-<h3>Y.E.C</h3>
+<h3>YEC</h3>
 <div>
 YEC Seeks to bridge the gab , provide impactful platforms for practice and training to prepare and produce intentional transformational leaders who although young will lead themselves, communities and their nations to their highest levels of performance and achievements.
 </div>
