@@ -148,7 +148,7 @@ include_once("header.php");
 <div class="container sec2_sec">
 
 <h2 class="text-center text-uppercase">youth empowerment Consortium</h2>
-<p class="after_sec2_header">Africa must rise to its destiny and that requires the effort of all of Us.</p>
+<p class="after_sec2_header">You are welcome to the YEC website. We envision transforming 250 000 youth lives by 2030.</p>
 <div class="col-sm-4 services_sec">
 <i class="fas fa-binoculars"></i>
 <h4 class="text-capitalize text-center">vission</h4>
