@@ -18,6 +18,9 @@
     <link rel="stylesheet" href="vendors/swiper.js/swiper-bundle.min.css"/>
 </head>
 <body>
+  <div class="after_header_before text-center" style="background-color:#000;">
+    <img src="resources/img/our_team/logo.jpeg" width="150px" height="150px" alt="logo">
+  </div>
     <div class="after_header">
         <div class="container">
 <div class="header_credentials">
@@ -173,7 +176,7 @@ include_once("header.php");
             <div class="text">
         <h2 class="text-uppercase text-center">Who we are</h2>
 <p>
-Youth Empowerment Consortium -YEC is a youth led not for profit non-governmental organization which is registered in Ghana as YEC GROUP INITIATIVE LTD with the goal of promoting youth involvement and participation in Governance and Socio Economic Development efforts within the Seven Spheres of Influence in every nation by nurturing , training and mentoring aspiring young political leaders, students, social activist, local community development partners, young professionals, entrepreneurs and all youth of African Descent for transformational leadership.
+Youth Empowerment Consortium -YEC is a youth lead not for profit non-governmental organization which is registered Company in Ghana as YEC GROUP INITIATIVE LTD with the goal of promoting youth involvement and participation in Governance and Socio Economic Development efforts within the Seven Spheres of Influence in every nation by nurturing , training and mentoring aspiring young political leaders, students, social activist, local community development partners, young professionals, entrepreneurs and all youth of African Descent for transformational leadership.
 </p>
 <a href="about_us.php" class="btn_read_more">Read More</a>
 </div>
@@ -302,7 +305,7 @@ Youth Empowerment Consortium -YEC is a youth led not for profit non-governmental
     <div>
         <h2 class="text-uppercase text-center">why join us</h2>
         <p class="text-center">
-       Africa must rise to its destiny and that requires the effort of all of Us.
+        Africa must rise to its destiny and that requires the effort of all of Us
                   </p>
     </div>
     <div class="why_join">
