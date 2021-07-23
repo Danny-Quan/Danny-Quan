@@ -4,8 +4,9 @@
         <div class="col-sm-3 f-col">
 <h3>YEC</h3>
 <div>
-YEC Seeks to bridge the gab , provide impactful platforms for practice and training to prepare and produce intentional transformational leaders who although young will lead themselves, communities and their nations to their highest levels of performance and achievements.
-</div>
+<!--YEC Seeks to bridge the gab , provide impactful platforms for practice and training to prepare and produce intentional transformational leaders who although young will lead themselves, communities and their nations to their highest levels of performance and achievements. -->
+At YEC we train and deploy youth leaders who proffer performance instead of pronouncement, expertise and competence instead of title and positions; and are involved in pioneering bold and innovative initiatives towards community and national development instead of seeking handout, offer compassionate hands to their people instead of dictatorship, control and abuse and leaving  lasting legacies in their lifetime instead of failures, excuses and shame. 
+            </div>
         
 </div>
 
