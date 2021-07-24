@@ -176,7 +176,7 @@ include_once("header.php");
             <div class="text">
         <h2 class="text-uppercase text-center">Who we are</h2>
 <p>
-Youth Empowerment Consortium -YEC is a youth lead not for profit non-governmental organization which is registered Company in Ghana as YEC GROUP INITIATIVE LTD with the goal of promoting youth involvement and participation in Governance and Socio Economic Development efforts within the Seven Spheres of Influence in every nation by nurturing , training and mentoring aspiring young political leaders, students, social activist, local community development partners, young professionals, entrepreneurs and all youth of African Descent for transformational leadership.
+Youth Empowerment Consortium -YEC is a youth led not for profit non-governmental organization which is registered in Ghana as YEC GROUP INITIATIVE LTD with the goal of promoting youth involvement and participation in Governance and Socio Economic Development efforts within the Seven Spheres of Influence in every nation by nurturing , training and mentoring aspiring young political leaders, students, social activist, local community development partners, young professionals, entrepreneurs and all youth of African Descent for transformational leadership.
 </p>
 <a href="about_us.php" class="btn_read_more">Read More</a>
 </div>
