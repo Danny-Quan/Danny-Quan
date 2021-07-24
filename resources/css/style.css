@@ -925,17 +925,17 @@ color: #fff;
     list-style: none;
     text-decoration: none;
     font-size: 300%;
-    color: rgb(0, 128, 58);
-    background-color: #fff;
+    color: #fff;
+    background-color:  rgb(27, 172, 92);
     width: 60px;
     height: 60px;
     text-align: center;
-    border: 2px solid rgb(224, 177, 19);
+    box-shadow: 2px 5px 5px rgb(197, 193, 193);
     border-radius: 50%;
 }
 .whatsApp_btn{
     position: fixed;
-    top: 70%;
+    top: 80%;
     right: 1%;
     z-index: 9999;
 }
@@ -944,6 +944,7 @@ color: #fff;
 .our_team_page img{
     width: 100%;
     height: 320px;
+    border-radius: 50%;
 }
 .our_team_page h4{
     color:rgb(224, 177, 19);
