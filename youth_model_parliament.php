@@ -77,7 +77,7 @@ include_once("header.php");
 </div>
 <div class="container">
     <div class="col-sm-6">
-        <h3 class="text-uppercase text-left">Join our 2021 youth model parliament conference</h3>
+        <h3 class="text-uppercase text-left">Join our 2021 youth model parliament</h3>
         <div class="register">
         <a href="#" class="register_btn">Register Now</a>
         </div>
