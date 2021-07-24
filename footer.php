@@ -49,6 +49,6 @@ At YEC we train and deploy youth leaders who proffer performance instead of pron
     </div>
 </div>
     <div class="copyright_info text-center">
-        copyright &copy; 2021 &nbsp; Youth Empowerment Consortium.&nbsp; All rights reserved &verbar;&verbar;Designed by <span class="dev_name">Danny Quan</span>
+        copyright &copy; 2021 &nbsp; Youth Empowerment Consortium.&nbsp; All rights reserved &verbar;&verbar; Designed by <span class="dev_name">Danny Quan</span>
     </div>
 </footer>
