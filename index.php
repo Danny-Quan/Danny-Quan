@@ -21,7 +21,7 @@
   <div class="after_header_before text-center" style="background-color:#000;">
     <img src="resources/img/our_team/logo.jpeg" width="100px" height="100px" alt="logo" class="img-circle">
   </div>
-    <div class="after_header">
+    <div class="after_header" style="display:none;">
         <div class="container">
 <div class="header_credentials">
     <div class="col-md-8 col-sm-12 text-center">
